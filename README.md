@@ -19,7 +19,7 @@
 <!-- Social / Contact Icons -->
 <a href="https://www.linkedin.com/in/gaddam-swagath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sswagath46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://luxury-brigadeiros-d45ea1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-olive-one-e9wfg0chro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/swagath088"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -90,23 +90,23 @@ education: B.Tech, Computer Science and Engineering (2021–2025)
 
 <!-- ✏️ Replace the GitHub/Live links below with your actual project repo & deployment links -->
 
+### 🏥 Hospital Management System — Full-Stack Web Application
+A full-stack Hospital Management System with a Django REST Framework backend and a React.js + React Router frontend. Patients can view doctor availability, book/cancel appointments, and track appointment history; doctors manage their availability and view booked appointments — all from separate dashboards. Uses `transaction.atomic()` with `select_for_update()` to prevent double-booking race conditions, plus Google Calendar sync and a decoupled serverless email microservice for notifications.
+
+**Tech Stack:** Django · DRF · React.js · JWT (Simple JWT) · SQLite · Google Calendar API · Serverless Framework
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/swagath088/Hospital-Management-System)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel)](https://hospitalfrontend-two.vercel.app/)
+
+---
+
 ### 🎬 Netflix Clone — Full-Stack Web Application
 Netflix-style streaming app with authentication, category-based browsing (All, Action, Love, Web Series), search, and details view. Superusers can add, modify, and delete movies directly from the React frontend via CRUD REST APIs.
 
 **Tech Stack:** Django · React.js · REST API
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/swagath088)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel)](#)
-
----
-
-### 🌐 Portfolio & Blog Website — Full-Stack Web Application
-A personal portfolio and blog site with Home, Projects, Blogs, Contact Me, and About Me pages. Includes an admin login for managing blogs, projects, and viewing visitor messages, backed by a Django REST API.
-
-**Tech Stack:** Django · React.js · REST API
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/swagath088)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=netlify)](https://luxury-brigadeiros-d45ea1.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/swagath088/netflix-clone-django-react)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel)](https://netflix-clone-django-react-swagaths-projects.vercel.app/)
 
 <br/>
 
@@ -171,7 +171,7 @@ A personal portfolio and blog site with Home, Projects, Blogs, Contact Me, and A
 
 <a href="https://www.linkedin.com/in/gaddam-swagath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sswagath46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://luxury-brigadeiros-d45ea1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-olive-one-e9wfg0chro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
